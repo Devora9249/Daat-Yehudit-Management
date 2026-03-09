@@ -7,7 +7,7 @@
 
 A comprehensive full-stack web application for managing the financial and administrative operations of a nonprofit [Kollel](https://en.wikipedia.org/wiki/Kollel)  organization — covering donor tracking, avrechim (scholars) management, scholarships, debts, expenses, and automated email reminders. The application is fully in Hebrew with RTL support.
 
-<img src="./screenshots/all gif.gif"/>
+<img src="./client/screenshots/all gif.gif"/>
 
 ## Table of Contents
 
@@ -264,31 +264,31 @@ The entire application theme is defined in a single file: client/src/MainDesign/
 ## UI Screenshots
 
 ### finacial report
-<img src="./screenshots/finacial report long.png" width="660" />
+<img src="./client/screenshots/finacial report long.png" width="660" />
 
 ### links page
-<img src="./screenshots/links.png" width="660" />
+<img src="./client/screenshots/links.png" width="660" />
 
 
 ### milgot page
-<img src="./screenshots/milgot long.png" width="660" />
+<img src="./client/screenshots/milgot long.png" width="660" />
 
 ### avrechim page
-<img src="./screenshots/avrechim.png" width="660" />
+<img src="./client/screenshots/avrechim.png" width="660" />
 
 ### debts page
-<img src="./screenshots/debts.png" width="660" />
+<img src="./client/screenshots/debts.png" width="660" />
 
 ### donors page
-<img src="./screenshots/donors.png" width="660" />
+<img src="./client/screenshots/donors.png" width="660" />
 
 ### add donor
-<img src="./screenshots/add donor gif.gif" width="660" />
+<img src="./client/screenshots/add donor gif.gif" width="660" />
 
 ### donor details card
-<img src="./screenshots/donor details.png" width="660" />
+<img src="./client/screenshots/donor details.png" width="660" />
 
 ### expenses page
-<img src="./screenshots/expenses.png" width="660" />
+<img src="./client/screenshots/expenses.png" width="660" />
 
 
